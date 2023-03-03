@@ -1717,3 +1717,9 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.03-21.43.04:914][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 2.98 sec)
 [2023.03.03-21.43.04:920][ 76]AssetCheck: New page: Asset Save: StaticMeshActor_3
 [2023.03.03-21.43.04:920][ 76]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3
+[2023.03.03-21.46.38:856][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.03-21.46.38:973][746]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO
+[2023.03.03-21.46.38:974][746]LogSavePackage: Moving '../../../../../../Users/Greteus/Desktop/Universidad/4-Cuarto/segundo trimestre/Motors de joc/práctica pesca/Github/Prac2_MotorsJoc_CornejoViladevall/Prac2_MotorsJoc/Saved/NB37RT5Q32Z8MJWD8BD2SOC5A7DECD4FD15F83D82CEBB05CC18852.tmp' to '../../../../../../Users/Greteus/Desktop/Universidad/4-Cuarto/segundo trimestre/Motors de joc/práctica pesca/Github/Prac2_MotorsJoc_CornejoViladevall/Prac2_MotorsJoc/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset'
+[2023.03.03-21.46.38:986][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 3.11 sec)
+[2023.03.03-21.46.38:991][746]AssetCheck: New page: Asset Save: TextRenderActor_1
+[2023.03.03-21.46.38:991][746]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_1
